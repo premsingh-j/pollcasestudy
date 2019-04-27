@@ -7,3 +7,5 @@ How the result is achieved:
 
 I have used browser session to check the poll vote for the same user.we can also do it through ip address.since to make it easy to test for now i have used browser session.To vote again, close the browser and now you can vote again.
 
+Import the poll.sql into mysql db
+Change the db username,password in poll.class.php
